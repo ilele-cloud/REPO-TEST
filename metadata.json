@@ -1,0 +1,28 @@
+{
+    "version": "0.0.1",
+
+    "build_id": "2024-11-29_12-00-00",
+
+    "firmware_url": "https://example.com/firmware/esp32_firmware_v1.0.0.bin",
+
+    "firmware_hash": "d41d8cd98f00b204e9800998ecf8427e",
+
+    "firmware_size": 524288,
+
+    "device_model": "ESP32",
+
+    "hardware_version": "v0.1",
+
+    "update_type": "mandatory",
+
+    "rollback_version": "0.0.0",
+
+    "release_notes": "Version Initiale du système.",
+
+    "changelog": [
+      "Déploiement initiale du firmware"
+    ],
+
+    "signature": "Sauna_Ivan_xwcv:wxvlw;ppI20193E7YHDDJML?CML?.,;podjzpoeidyuzpuéçà&u;:)&àuè89541503./9?F"
+  }
+  
